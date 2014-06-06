@@ -1,0 +1,6 @@
+{
+  "name": "Sample Plugin",
+  "desc": "Sample Description",
+  "author": "Ryan Gaus",
+  "main": "sample.py:sample_parser"
+}
