@@ -1,7 +1,7 @@
 Remember me?
 ===
 The basic todo list plugin and a basic example plugin for anyone looking for an example.
-lLsts are stored in reminders.json inside of the plugins folder.
+Lists are stored in reminders.json inside of the plugins folder.
 
 Example:
 ```
