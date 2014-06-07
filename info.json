@@ -1,6 +1,7 @@
 {
-  "name": "Sample Plugin",
-  "desc": "Sample Description",
+  "name": "Remember Me?",
+  "desc": "The everyman's todo list",
   "author": "Ryan Gaus",
-  "main": "sample.py:sample_parser"
+  "shortname": "todo",
+  "main": "rmd.py:todo_handler"
 }
